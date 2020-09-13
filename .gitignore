@@ -1,1 +1,18 @@
-*.swp
+
+# IDEA
+# ----
+*.iml
+.idea
+
+# jEnv
+# ----
+.java-version
+
+# macOS
+# ----
+.DS_Store
+
+# Logs
+# ----
+/*.log
+
